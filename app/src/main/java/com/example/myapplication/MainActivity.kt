@@ -14,5 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.d(TAG, "onCreate: change one")
+
+        Log.d(TAG, "onCreate: change two")
     }
 }
